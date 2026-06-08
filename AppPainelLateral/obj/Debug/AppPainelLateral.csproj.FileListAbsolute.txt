@@ -1,0 +1,13 @@
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\bin\Debug\AppPainelLateral.exe.config
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\bin\Debug\AppPainelLateral.exe
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\bin\Debug\AppPainelLateral.pdb
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.frmaluno.resources
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.frmmenuprincipal.resources
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.Properties.Resources.resources
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.exe
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.pdb
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.frmnota.resources
+C:\Users\Aluno\source\repos\AppPainelLateral\AppPainelLateral\obj\Debug\AppPainelLateral.frmprofessor.resources
